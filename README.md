@@ -11,3 +11,8 @@ letter S = multiplication
 letter U = division
 
 You can get an error if you enter some letters where you need to enter a number
+
+
+LOCATIONS
+- code: Calculator\Program.cs
+- program: Calculator\bin\Debug\net8.0
